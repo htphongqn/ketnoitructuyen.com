@@ -1,0 +1,183 @@
+C:\Documents and Settings\Administrator\Desktop\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+C:\Documents and Settings\Administrator\Desktop\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+C:\Documents and Settings\Administrator\Desktop\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+C:\Documents and Settings\Administrator\Desktop\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+C:\Documents and Settings\Administrator\Desktop\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Project2012\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Project2012\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Project2012\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Project2012\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Project2012\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Project2012\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Backup\vuonrauviet\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\vuonrauviet\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Backup\vuonrauviet\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Backup\vuonrauviet\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Backup\vuonrauviet\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Backup\vuonrauviet\vpro.vuonrauviet.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Project 2013\vpro.chulun.vn.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Project 2013\vpro.chulun.vn.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Project 2013\vpro.chulun.vn.cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 2013\vpro.chulun.vn.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Project 2013\vpro.chulun.vn.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Project 2013\vpro.chulun.vn.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Project 2013\vpro.dungcuykhoathanhphat.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Project 2013\vpro.dungcuykhoathanhphat.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Project 2013\vpro.dungcuykhoathanhphat.com.cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 2013\vpro.dungcuykhoathanhphat.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Project 2013\vpro.dungcuykhoathanhphat.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Project 2013\vpro.dungcuykhoathanhphat.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Project 2013\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Project 2013\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Project 2013\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 2013\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Project 2013\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Project 2013\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Project 2013\vpro.banbongban100.com.web\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Project 2013\vpro.banbongban100.com.web\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Project 2013\vpro.banbongban100.com.web\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 2013\vpro.banbongban100.com.web\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Project 2013\vpro.banbongban100.com.web\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Project 2013\vpro.banbongban100.com.web\vpro.banbongban100.com.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Thien\vpro.nguyenducperfume.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Thien\vpro.nguyenducperfume.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Thien\vpro.nguyenducperfume.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Thien\vpro.nguyenducperfume.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Thien\vpro.nguyenducperfume.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Thien\vpro.nguyenducperfume.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Thien\vpro.giahungthinh.vn.web\vpro.giahungthin.com\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Thien\vpro.giahungthinh.vn.web\vpro.giahungthin.com\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Thien\vpro.giahungthinh.vn.web\vpro.giahungthin.com\Cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Thien\vpro.giahungthinh.vn.web\vpro.giahungthin.com\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Thien\vpro.giahungthinh.vn.web\vpro.giahungthin.com\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Thien\vpro.giahungthinh.vn.web\vpro.giahungthin.com\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Thien\6vpro.myphamhanquocso1.com.web\Source\Cpanel\vpro.eshop.cpanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Thien\6vpro.myphamhanquocso1.com.web\Source\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Thien\6vpro.myphamhanquocso1.com.web\Source\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Thien\6vpro.myphamhanquocso1.com.web\Source\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Thien\6vpro.myphamhanquocso1.com.web\Source\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Thien\6vpro.myphamhanquocso1.com.web\Source\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\vpro.pebecream.com.web\Tham khao\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\vpro.pebecream.com.web\Tham khao\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\vpro.pebecream.com.web\Tham khao\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\vpro.pebecream.com.web\Tham khao\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\vpro.pebecream.com.web\Tham khao\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\vpro.pebecream.com.web\Tham khao\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\vpro.pebecream.com.web\Cream\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\vpro.pebecream.com.web\Cream\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\vpro.pebecream.com.web\Cream\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\vpro.pebecream.com.web\Cream\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\vpro.pebecream.com.web\Cream\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\vpro.pebecream.com.web\Cream\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\vpro.thanhtamshop.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\vpro.thanhtamshop.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\vpro.thanhtamshop.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\vpro.thanhtamshop.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\vpro.thanhtamshop.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\vpro.thanhtamshop.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\vpro.daotaoketoannhanh.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\vpro.daotaoketoannhanh.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\vpro.daotaoketoannhanh.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\vpro.daotaoketoannhanh.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\vpro.daotaoketoannhanh.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\vpro.daotaoketoannhanh.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\nhakhoahoacuoi.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\nhakhoahoacuoi.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\nhakhoahoacuoi.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\nhakhoahoacuoi.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\nhakhoahoacuoi.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\nhakhoahoacuoi.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\ipinternational.com.vn.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\ipinternational.com.vn.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\ipinternational.com.vn.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\ipinternational.com.vn.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\ipinternational.com.vn.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\ipinternational.com.vn.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\chuyenchothue.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\chuyenchothue.com.web\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\chuyenchothue.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\chuyenchothue.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\chuyenchothue.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\chuyenchothue.com.web\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\CONGNGHIEP\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\CONGNGHIEP\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\CONGNGHIEP\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\CONGNGHIEP\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\CONGNGHIEP\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\CONGNGHIEP\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\CONGNGHIEP\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.pdb
+D:\Truong\CONGNGHIEP\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.xml
+D:\Truong\THOIDAIMOI\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\THOIDAIMOI\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\THOIDAIMOI\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.pdb
+D:\Truong\THOIDAIMOI\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.xml
+D:\Truong\THOIDAIMOI\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\THOIDAIMOI\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\THOIDAIMOI\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\THOIDAIMOI\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\Truong\BELLO\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Truong\BELLO\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\Truong\BELLO\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Truong\BELLO\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Truong\BELLO\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Truong\BELLO\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.pdb
+D:\Truong\BELLO\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.xml
+D:\Truong\BELLO\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+C:\Users\Mr\Desktop\C#\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+C:\Users\Mr\Desktop\C#\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+C:\Users\Mr\Desktop\C#\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+C:\Users\Mr\Desktop\C#\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+C:\Users\Mr\Desktop\C#\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+C:\Users\Mr\Desktop\C#\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.pdb
+C:\Users\Mr\Desktop\C#\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.xml
+D:\Webcustomer\C#\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\Webcustomer\C#\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\Webcustomer\C#\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.pdb
+D:\Webcustomer\C#\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.xml
+D:\Webcustomer\C#\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\Webcustomer\C#\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\Webcustomer\C#\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\QUANG_HUY\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\QUANG_HUY\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\QUANG_HUY\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.pdb
+D:\TRUONGNT\SOURCE\QUANG_HUY\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.xml
+D:\TRUONGNT\SOURCE\QUANG_HUY\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\QUANG_HUY\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\QUANG_HUY\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\NAM TAM\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\NAM TAM\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\NAM TAM\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.pdb
+D:\TRUONGNT\SOURCE\NAM TAM\Cpanel\vpro.eshop.cpanel\bin\HtmlAgilityPack.xml
+D:\TRUONGNT\SOURCE\NAM TAM\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\NAM TAM\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\NAM TAM\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\SHOP BAC SI\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\SHOP BAC SI\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\SHOP BAC SI\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\SHOP BAC SI\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\SHOP BAC SI\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\HAPPY BUY\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\HAPPY BUY\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\HAPPY BUY\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\HAPPY BUY\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\HAPPY BUY\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\HAPPY BUY\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+C:\Users\admin\Desktop\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+C:\Users\admin\Desktop\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+C:\Users\admin\Desktop\Cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+C:\Users\admin\Desktop\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+C:\Users\admin\Desktop\Cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\KET NOI TRUC TUYEN\Cpanel_main\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\KET NOI TRUC TUYEN\Cpanel_main\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\KET NOI TRUC TUYEN\Cpanel_main\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\KET NOI TRUC TUYEN\Cpanel_main\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\TRUONGNT\SOURCE\KET NOI TRUC TUYEN\Cpanel_main\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\KET NOI TRUC TUYEN\Cpanel_main\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\PhongHT\Websites\dev\ketnoitructuyen.com\Cpanel_main\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\PhongHT\Websites\dev\ketnoitructuyen.com\Cpanel_main\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\PhongHT\Websites\dev\ketnoitructuyen.com\Cpanel_main\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\PhongHT\Websites\dev\ketnoitructuyen.com\Cpanel_main\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll.licenses
+D:\PhongHT\Websites\dev\ketnoitructuyen.com\Cpanel_main\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\PhongHT\Websites\dev\ketnoitructuyen.com\Cpanel_main\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb

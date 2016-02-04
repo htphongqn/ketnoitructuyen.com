@@ -1,0 +1,36 @@
+﻿ul, li { list-style: none; padding: 0; margin: 0}
+.danhgia { float: left; width: 70%;margin-top:10px; }
+.row_danhgia { float: left; width: 100%; margin-bottom: 5px }
+.l_danhgia { float: left; width: 130px; font-weight: 700; line-height: 25px }
+.required { color: #FF0000; margin-left: 3px }
+.r_danhgia { margin-left: 140px }
+.input_danhgia {
+    padding: 5px 0;
+	text-indent: 5px;
+    width: 100%;
+	border: 1px solid #a9a9a9;
+	font: 500 12px arial;
+	color: #666666;
+}
+.buttoncm {
+	float: right;
+	white-space: nowrap;
+    background: #658cf3;
+    border: 0 none;
+    color: #FFFFFF;
+	font: 700 13px arial;
+    cursor: pointer;
+    padding: 5px 20px;
+	margin-top: 15px;
+}
+.choose_star { margin-left: 72%;margin-top:10px }
+.choose_star b { display: block; margin-bottom: 10px}
+.choose_star li { float: left; width: 100%;
+ margin-bottom: 5px }
+
+ .star_icon { display: inline-block; width: 80px; height: 13px; background-image: url(../Images/star_icon.png); background-repeat: no-repeat }
+ .star_icon.five_star { background-position: 0 -64px }
+  .star_icon.four_star { background-position: 0 -49px }
+   .star_icon.three_star { background-position: 0 -33px }
+    .star_icon.two_star { background-position: 0 -17px }
+	 .star_icon.one_star { background-position: 0 0 }

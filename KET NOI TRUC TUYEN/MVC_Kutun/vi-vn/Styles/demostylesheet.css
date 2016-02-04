@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+#slideshowWrapper {
+	position:relative;
+	width:100%;
+	margin:auto;
+}
+#fssPrev {
+	position:absolute;
+	top:169px;
+	left:-67px;
+	background:url(arrows.png) -67px 0px;
+	width:67px;
+	height:143px;
+	text-indent:-999999px;
+}
+#fssNext {
+	position:absolute;
+	top:169px;
+	left:646px;
+	background:url(arrows.png) no-repeat;
+	width:67px;
+	height:143px;
+	text-indent:-999999px;
+}
+#fssPlayPause {
+	display: none;
+	position:absolute;
+	top:435px;
+	right:20px;
+	background:url(white.png) repeat;
+	padding:4px 0 5px 0;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	width:60px;
+	text-align:center;
+	display:block;
+	color:#333;
+	text-decoration:none;
+}
+ul#slideshow {
+	list-style:none;
+	width:100%;
+	height:400px;
+	overflow:hidden;
+}
+ul#slideshow img {
+	width: 100%;
+	height: 100%
+}
+#fssList {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	z-index: 50;
+	width: 100%;
+	text-align: right;
+	list-style:none;
+	margin:auto;
+}
+#fssList li {
+	display:inline;
+	padding-right:10px;
+}
+#fssList li a {
+	display: inline-block;
+	text-indent: -9999px;
+	background: #f4f4f4;
+	-moz-box-shadow: -2px 1px 1px #444444 inset;
+	-webkit-box-shadow: -2px 1px 1px #444444 inset;
+	box-shadow: -2px 1px 1px #444444 inset;
+	width: 12px;
+	height: 12px;
+	font-size: 0;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	text-decoration:none;
+}
+#fssList li.fssActive a {
+	background: #ee1d25;
+}

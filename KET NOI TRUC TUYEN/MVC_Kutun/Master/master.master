@@ -1,0 +1,166 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="MVC_Kutun.Master.Master" %>
+
+<%@ Register Src="../UIs/Ads-top.ascx" TagName="Ads" TagPrefix="uc1" %>
+<%@ Register Src="../UIs/support.ascx" TagName="support" TagPrefix="uc2" %>
+<%@ Register Src="../UIs/right-fix.ascx" TagName="right" TagPrefix="uc3" %>
+<%@ Register Src="../UIs/top-page.ascx" TagName="top" TagPrefix="uc4" %>
+<%@ Register Src="../UIs/header.ascx" TagName="header" TagPrefix="uc5" %>
+<%@ Register Src="../UIs/topmenu.ascx" TagName="topmenu" TagPrefix="uc6" %>
+<%@ Register Src="../UIs/slider-doitac.ascx" TagName="slider" TagPrefix="uc7" %>
+<%@ Register Src="../UIs/Seo-sologan.ascx" TagName="Seo" TagPrefix="uc8" %>
+<%@ Register Src="../UIs/Ads-bottom.ascx" TagName="Ads" TagPrefix="uc9" %>
+<%@ Register Src="../UIs/footer.ascx" TagName="footer" TagPrefix="uc10" %>
+<%@ Register Src="../UIs/foot-menubottom.ascx" TagName="foot" TagPrefix="uc11" %>
+<%@ Register Src="../UIs/send-email.ascx" TagName="receiver_email" TagPrefix="uc13" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="../vi-vn/Styles/template.css" type="text/css" />
+    <link href="../vi-vn/modalbox/login_popup.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="../vi-vn/Scripts/jquery-1.8.3.min.js"></script>
+    <!--Main Menu-->
+    <link href="../vi-vn/Styles/newheadfooter.css" rel="stylesheet" type="text/css" />
+    <!--Slider Banner-->
+    <link rel="stylesheet" type="text/css" href="../vi-vn/Styles/demoStyleSheet.css" />
+    <!--Start of Zopim Live Chat Script-->
+<%--<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?3BB5j9PKS30wSO4xkzIvX5s28s1TMOhD";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>--%>
+<!--End of Zopim Live Chat Script-->
+
+    <meta name="author" content="www.ketnoitructuyen.com">
+    <meta name="copyright" content="Kết nối trực tuyến" />
+<meta name="google-site-verification" content="sojKxglWvcNIhn9J01g9hVY9UWkKuJV4N0GqpgJ8zCY" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <div>
+        <div id="ads_top_page">
+            <uc1:Ads ID="Ads1" runat="server" />
+        </div>
+        <!--Support-->
+        <div class="support_head">
+            <uc2:support ID="support1" runat="server" />
+        </div>
+        <!--End Support-->
+        <!--Right Fix Side-->
+        <div id="left_fix_side">
+            <uc3:right ID="right1" runat="server" />
+        </div>
+        <!--end Right Fix Side-->
+        <!--Top Page-->
+        <div id="top_page">
+            <uc4:top ID="top1" runat="server" />
+        </div>
+        <!--end Top Page-->
+        <!--#begin Wrap-->
+        <div class="wrap">
+            <!--#begin Header-->
+            <div id="header">
+                <uc5:header ID="header1" runat="server" />
+            </div>
+            <!--#end Header-->
+            <!--Top Main-->
+            <div id="<%=setID() %>">
+                <uc6:topmenu ID="topmenu1" runat="server" />
+            </div>
+            <!--End Top Main -->
+            <!--Main Content-->
+            <div id="main" class="cf">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+                <!--Slide Trade-mark-->
+                <div class="box">
+                    <div id="trade_mark">
+                        <div class="tt_trademark">
+                            <span>Thương hiệu nổi bật</span></div>
+                        <div id="sl_logo_trademark" class="sl_botttom">
+                            <ul>
+                                <uc7:slider ID="slider1" runat="server" />
+                            </ul>
+                            <div class="cf">
+                            </div>
+                            <a id="prev_trademark" class="prev" href="#">&lt;</a> <a id="next_trademark" class="next"
+                                href="#">&gt;</a>
+                        </div>
+                    </div>
+                </div>
+                <!--End Slide Trade-mark-->
+            </div>
+            <!--End Main Content-->
+            <!--Info SEO-->
+            <div class="box">
+                <uc8:Seo ID="Seo1" runat="server" />
+            </div>
+            <!--end Info SEO-->
+            <!--Slide Ads-->
+            <div class="box">
+                <div class="box_Tab_cate_home">
+                    <div class="main_cate">
+                        <span>Quảng cáo</span></div>
+                </div>
+                <div id="ads_bottom">
+                    <div id="sl_adsbottom" class="sl_botttom">
+                        <ul>
+                            <uc9:Ads ID="Ads2" runat="server" />
+                        </ul>
+                        <div class="cf">
+                        </div>
+                        <a id="prev_adsbot" class="prev" href="#">&lt;</a> <a id="next_adsbot" class="next"
+                            href="#">&gt;</a>
+                    </div>
+                </div>
+            </div>
+            <!--End Slide Ads-->
+            <!--Voucher-->
+            <div class="box voucher">
+                <uc13:receiver_email ID="receiver_email1" runat="server" />
+            </div>
+            <!--end Voucher-->
+            <div id="footer" class="cf">
+                <uc10:footer ID="footer1" runat="server" />
+            </div>
+            <!--end Footer-->
+        </div>
+        <!-- End wrap-->
+        <!--Footer Bottom-->
+        <div id="footer_bottom" class="cf">
+            <uc11:foot ID="foot1" runat="server" />
+        </div>
+        <!--end Footer Bottom-->
+        <!-- back to top -->
+        <script type="text/javascript" src="../vi-vn/Scripts/scrolltopcontrol.js"></script>
+        <div id="toTop">
+        </div>
+        <!--Carousel Assets-->
+        <script type="text/javascript" src="../vi-vn/Scripts/jquery.carouFredSel-5.6.0-packed.js"></script>
+        <script type="text/javascript" src="../vi-vn/Scripts/all_scripts.js"></script>
+        <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-59202370-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+    </div>
+    </form>
+
+<div style="position: absolute; left: -1000px;"><span style="position: absolute; top: -100px; overflow: auto;"><a title="phim hay" href="http://yuphim.com/" target="_blank"><strong>phim hay</strong></a>, <a title="tai facebook" href="http://yumobiz.com/tai-facebook-mien-phi.html" target="_blank"><strong>tai facebook</strong></a>, <a title="gach inax" href="http://thietbivesinhinax.com/Gach-Inax//Gach-Inax-255/-PCM--9/191/194/1371..html" target="_blank"><strong>gach inax</strong></a>, <a title="phim thai lan" href="http://yuphim.net/quoc-gia/thai-lan.html" target="_blank"><strong>phim thai lan</strong></a></div>
+</body>
+</html>
